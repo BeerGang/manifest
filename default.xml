@@ -19,10 +19,9 @@
            review="review.cyanogenmod.org" />
            
   <remote  name="beer"
-           fetch="git://github.com/BeerGang"
-           review="review.cyanogenmod.org" />
+           fetch="git://github.com/BeerGang" />
 
-  <default revision="refs/tags/android-5.0.2_r1"
+  <default revision="lollipop"
            remote="aosp"
            sync-j="4" />
 
